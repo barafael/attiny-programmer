@@ -18,4 +18,6 @@ You can use this sort of Arduino Shield to program your attiny chip. The switche
 
 ## Circuit
 
+![alt text](https://raw.githubusercontent.com/barafael/attiny-programmer/master/attiny-programmer_PCB.png)
+
 Based on the circuit [here](http://highlowtech.org/?p=1706). You can either bridge the gaps to have a permanent connection to the Arduino Uno, or you can solder 2.54'' switches to toggle between the programmer and the output row.
