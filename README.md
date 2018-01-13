@@ -5,6 +5,8 @@ A PCB board to use an Arduino Uno to burn programs to an AVR attiny85 8-pin micr
 
 You can use this sort of Arduino Shield to program your attiny chip. The switches allow you to toggle between the programming functionality or the attiny85 output pins (without taking out the attiny from the socket).
 
+![alt text](https://raw.githubusercontent.com/barafael/attiny-programmer/master/programmer.jpg)
+
 ## Preparations
 
 * Follow the steps from [here](http://highlowtech.org/?p=1695) to install support for your attiny85 in your Arduino IDE
