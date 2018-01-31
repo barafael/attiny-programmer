@@ -8,6 +8,12 @@ You can use this Arduino shield to program your attiny chip. The switches allow 
 
 ![alt text](https://raw.githubusercontent.com/barafael/attiny-programmer/master/programmer.jpg)
 
+#### With toggle switches
+
+Be aware that the through-holes for the switches are spaced 2.54mm. I did this ignoring that it is rather hard to find cheap switches with that spacing. If you want this adapted, let me know and I will make a new spin (or you can do it, then please make a PR).
+
+![alt text](https://raw.githubusercontent.com/barafael/attiny-programmer/master/programmer_switches.jpg)
+
 ## Preparations
 
 * Follow the steps from [here](http://highlowtech.org/?p=1695) to install support for your attiny85 in your Arduino IDE
