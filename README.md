@@ -21,7 +21,7 @@ it, then please make a PR).
 
 ## Preparations
 
-* Follow the steps from [here](http://highlowtech.org/?p=1695) to install support for your attiny85 in your Arduino IDE
+* Follow the steps from [here](http://highlowtech.org/?p=1695) and [here](http://highlowtech.org/?p=1706) to install support for your attiny85 in your Arduino IDE
 * Solder appropriate headers and the 10uF capacitor to the shield
 * Make sure you have selected the standard Arduino IDE presets for the Arduino Uno (Board: Arduino/Genuino Uno, Programmer: AVRISP mkII)
 * Select the sketch ```File -> Examples -> ArduinoISP``` and burn it to your Uno
