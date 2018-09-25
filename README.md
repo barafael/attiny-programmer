@@ -10,7 +10,13 @@ pins (without removing the attiny from the socket).
 
 ![alt text](https://raw.githubusercontent.com/barafael/attiny-programmer/master/programmer.jpg)
 
+To test, you can try the standard blink application using pin 2 - that is connected to pin 13
+of the UNO, which has an LED.
+
 #### With toggle switches
+
+NOTE: The toggle switches were not a clever idea. I would not recommend using them, just bridge
+the through-holes...
 
 Be aware that the through-holes for the switches are spaced 2.54mm. I did this
 ignoring that it is rather hard to find cheap switches with that spacing. If
