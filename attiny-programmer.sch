@@ -64,16 +64,6 @@ Wire Wire Line
 	1600 2900 1950 2900
 Wire Wire Line
 	1600 3200 1700 3200
-Wire Notes Line
-	8500 3450 11200 3450
-Wire Notes Line
-	8500 500  8500 3450
-Wire Notes Line
-	9925 825  9925 475 
-Wire Notes Line
-	8525 825  9925 825 
-Text Notes 8550 750  0    60   ~ 0
-Shield for Arduino that uses\nthe same pin disposition\nlike "Uno" board Rev 3.
 Text Notes 5640 3140 0    60   ~ 0
 1
 Wire Wire Line
